@@ -1,0 +1,10 @@
+{
+    "name": "CIDDS Fraud",
+    "id": "cidds--fraud",
+    "task_type": "binclass",
+    "n_num_features": 6,
+    "n_cat_features": 14,
+    "train_size": 12525224,
+    "val_size": 10310540,
+    "test_size": 8451274
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ERP Fraud",
+    "id": "erp--fraud",
+    "task_type": "binclass",
+    "n_num_features": 10,
+    "n_cat_features": 42,
+    "train_size": 32337,
+    "val_size": 36778,
+    "test_size": 37407
+}

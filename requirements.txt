@@ -1,0 +1,15 @@
+# built using python 3.9.7
+category-encoders==2.3.0
+icecream==2.1.2
+libzero==0.0.8
+numpy==1.22
+optuna==2.10.1
+pandas==1.3.4
+scikit-learn==1.0.2
+scipy==1.7.2
+tomli-w==0.4.0
+tomli==1.2.2
+tqdm==4.62.3
+shap==0.40.0
+dask-ml[complete]==1.9.0
+# torch==1.12.0+cu113
